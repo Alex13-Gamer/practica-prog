@@ -1,2 +1,3 @@
-# practica-prog
-Repo de prueba
+# Practicas de programación 1
+
+Hola mundo
